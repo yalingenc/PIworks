@@ -1,0 +1,2 @@
+I convert .csv file to .txt format then read this txt file and insert values in sqlite database. 
+Then solve related question with using Java. I use intellij for developing Java code.
